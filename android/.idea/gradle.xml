@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.19/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.18.0/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.0.16/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_android-3.1.8/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.1.7/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-2.0.3/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.4.0/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/native_video_view-1.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.3.1/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/platform_device_id-1.0.1/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$PROJECT_DIR$/../../../flutter_windows_3.0.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.17/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

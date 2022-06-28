@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261794301216",
+    "firebase_url": "https://rodbez1-f2e36-default-rtdb.firebaseio.com",
+    "project_id": "rodbez1-f2e36",
+    "storage_bucket": "rodbez1-f2e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261794301216:android:73f6448f2723a7d5b3c345",
+        "android_client_info": {
+          "package_name": "com.Rodbez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261794301216-bu9qki8i9aqpl0rq327ta1ljakiaeubk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Rodbez",
+            "certificate_hash": "64c8b8ad688a556fbdda20f25c2198ed0ccb26d9"
+          }
+        },
+        {
+          "client_id": "261794301216-64hld8ntl3cap8b4eh660r1p823tjtrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDuQ8Oh7bvOlkbQb8HaKqWFR-_EstFhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261794301216-64hld8ntl3cap8b4eh660r1p823tjtrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
